@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/egama/Example-node-swagger-ui-express.git"
+    "url": "git+https://github.com/mrisney/cableone-node-swagger-ui-express-example.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/egama/Example-node-swagger-ui-express/issues"
+    "url": "https://github.com/mrisney/cableone-node-swagger-ui-express-example/issues"
   },
-  "homepage": "https://github.com/egama/Example-node-swagger-ui-express#readme",
+  "homepage": "https://github.com/mrisney/cableone-node-swagger-ui-express-example#readme",
   "dependencies": {
     "express": "^4.16.3",
     "node-swagger-ui-express": "^1.0.3"
